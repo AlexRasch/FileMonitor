@@ -1,7 +1,7 @@
 # FileMonitor
 FileMonitorPInvoke is a open-source C# application that makes use of the Windows API functions, like FindFirstChangeNotification, FindNextChangeNotification, and ReadDirectoryChangesW, to track file changes in a specified directory. It allows you to monitor file additions, deletions, and modifications. The project is licensed under the permissive MIT License, allowing everyone to freely use, modify, and include the code in their projects, as long as they credit the original author. 
 
-![FileMonitorPInvoke](https://github.com/AlexRasch/FileMonitorPInvoke/assets/46262688/3062d0c5-5c95-4121-a022-30fc050dd0e7)
+<img src="https://github.com/AlexRasch/FileMonitorPInvoke/assets/46262688/3062d0c5-5c95-4121-a022-30fc050dd0e7" width="300">
 
 
 **Disclaimer:** 
